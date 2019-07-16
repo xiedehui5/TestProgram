@@ -10,5 +10,7 @@ public class FirstDEV {
         System.out.println(
                 "hello the first DEV"
         );
+        
+        System.out.println("RTG-666");
     }
 }
