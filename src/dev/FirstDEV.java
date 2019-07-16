@@ -10,6 +10,6 @@ public class FirstDEV {
         System.out.println(
                 "hello the first DEV"
         );
-        System.out.println("this is the branch of feature/RTG-3710");
+        System.out.println("this is the branch of feature/RTG-8989");
     }
 }
